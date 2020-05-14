@@ -1,0 +1,4 @@
+org/acme/kafka/streams/aggregator/streams/TopologyProducer.class
+org/acme/kafka/streams/aggregator/model/Aggregation.class
+org/acme/kafka/streams/aggregator/model/WeatherStation.class
+org/acme/kafka/streams/aggregator/model/TemperatureMeasurement.class
